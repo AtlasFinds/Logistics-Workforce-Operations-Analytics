@@ -2,7 +2,7 @@
 
 An executive-ready data project and interactive portal designed to diagnose, monitor, and mitigate employee turnover, driver attrition, and safety risks within a large-scale supply chain logistics and transportation network.
 
-## 🎯 Business Objective
+## Business Objective
 Logistics and freight enterprises face industry-wide driver shortages and high front-line turnover. Replacing CDL drivers and warehouse operators costs businesses thousands of dollars in recruitment, onboarding, training, and lost capacity. The objective of this project is to:
 1. **Analyze workforce distribution** and shift allocation across major Regional Distribution Centers (RDCs).
 2. **Quantify 90-day early turnover** for critical job classes (CDL Class-A Drivers).
@@ -12,7 +12,7 @@ Logistics and freight enterprises face industry-wide driver shortages and high f
 
 ---
 
-## 🏗️ Project Architecture & File Deliverables
+## Project Architecture & File Deliverables
 
 The workspace contains the following deliverables:
 
@@ -30,7 +30,7 @@ The workspace contains the following deliverables:
 
 ---
 
-## 📈 Key Insights Discovered
+## Key Insights Discovered
 
 * **High Initial Attrition:** CDL Class-A Drivers and Warehouse Associates represent the highest turnover rates, with a significant spike in voluntary resignations occurring under 2.0 years of tenure.
 * **Onboarding Gaps:** The 90-day driver turnover query highlights critical onboarding/recruiting misalignment, specifically concentrated at certain hubs.
@@ -39,7 +39,7 @@ The workspace contains the following deliverables:
 
 ---
 
-## ⭐ STAR-Format Project Summary
+## Project Summary
 
 ### **Situation**
 In a highly competitive supply chain market, our enterprise experienced elevated front-line turnover, specifically among CDL Class-A Drivers and Warehouse Associates. Executive leadership lacked an integrated tool to track regional headcount distribution, analyze the root causes of early-stage turnover, correlate safety violations with employee churn, and quantify the total financial impact of recruitment and replacement costs.
