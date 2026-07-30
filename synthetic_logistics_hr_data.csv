@@ -1,0 +1,251 @@
+Employee_ID,Facility_Location,Job_Role,Employment_Status,Separation_Reason,Hire_Date,Tenure_Years,Safety_Violation_Count,Annual_Salary,Shift
+EMP001,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2024-09-20,1.71,2,87200,Day
+EMP002,Dallas Hub,Maintenance Tech,Active,N/A,2026-03-25,0.35,0,55600,Day
+EMP003,Chicago RDC,Maintenance Tech,Active,N/A,2021-12-23,4.6,1,64000,Day
+EMP004,Chicago RDC,Maintenance Tech,Active,N/A,2025-10-15,0.79,1,60600,Night
+EMP005,Atlanta Depot,CDL Class-A Driver,Active,N/A,2022-02-23,4.43,1,90400,Night
+EMP006,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2026-01-02,0.45,1,67400,Night
+EMP007,Chicago RDC,Warehouse Associate,Active,N/A,2024-03-06,2.4,1,47800,Night
+EMP008,Atlanta Depot,Logistics Coordinator,Active,N/A,2020-12-12,5.63,0,56700,Day
+EMP009,Dallas Hub,CDL Class-A Driver,Active,N/A,2023-09-13,2.88,0,84000,Weekend
+EMP010,Atlanta Depot,Warehouse Associate,Active,N/A,2021-08-10,4.97,0,39200,Weekend
+EMP011,Atlanta Depot,Maintenance Tech,Active,N/A,2022-03-21,4.36,0,56300,Night
+EMP012,Chicago RDC,Maintenance Tech,Active,N/A,2025-07-27,1.01,0,72700,Night
+EMP013,Dallas Hub,Logistics Coordinator,Active,N/A,2025-02-09,1.47,0,60500,Weekend
+EMP014,Chicago RDC,Maintenance Tech,Active,N/A,2025-06-13,1.13,0,70100,Day
+EMP015,Dallas Hub,Maintenance Tech,Active,N/A,2023-04-23,3.27,2,56300,Weekend
+EMP016,Dallas Hub,CDL Class-A Driver,Active,N/A,2024-10-29,1.75,0,86600,Weekend
+EMP017,Dallas Hub,Logistics Coordinator,Active,N/A,2022-03-10,4.39,0,55300,Day
+EMP018,Dallas Hub,Logistics Coordinator,Active,N/A,2022-10-01,3.83,0,63700,Weekend
+EMP019,Dallas Hub,Warehouse Associate,Terminated,Voluntary,2023-12-15,2.44,1,39900,Day
+EMP020,Atlanta Depot,Logistics Coordinator,Active,N/A,2025-11-17,0.7,1,51000,Day
+EMP021,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2024-04-16,1.67,0,88000,Weekend
+EMP022,Chicago RDC,Warehouse Associate,Active,N/A,2023-11-03,2.74,0,39100,Weekend
+EMP023,Dallas Hub,Maintenance Tech,Terminated,Involuntary,2024-02-26,2.39,3,60000,Day
+EMP024,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2024-10-28,0.97,3,67000,Day
+EMP025,Chicago RDC,Maintenance Tech,Active,N/A,2025-10-26,0.76,0,70700,Day
+EMP026,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-08-03,3.99,0,57400,Night
+EMP027,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2025-01-18,0.91,0,77100,Day
+EMP028,Chicago RDC,Logistics Coordinator,Active,N/A,2021-05-18,5.2,0,54500,Night
+EMP029,Dallas Hub,CDL Class-A Driver,Active,N/A,2025-11-02,0.74,0,84600,Day
+EMP030,Chicago RDC,Warehouse Associate,Terminated,Voluntary,2024-04-23,1.87,0,41300,Night
+EMP031,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-07-16,4.04,1,62500,Night
+EMP032,Atlanta Depot,Warehouse Associate,Active,N/A,2023-03-29,3.34,0,38900,Day
+EMP033,Dallas Hub,Logistics Coordinator,Active,N/A,2023-04-19,3.28,1,50900,Day
+EMP034,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2024-03-05,2.32,0,67100,Day
+EMP035,Dallas Hub,CDL Class-A Driver,Active,N/A,2024-11-13,1.71,0,84700,Night
+EMP036,Dallas Hub,Logistics Coordinator,Terminated,Voluntary,2022-10-27,3.72,0,54800,Day
+EMP037,Atlanta Depot,CDL Class-A Driver,Active,N/A,2024-05-11,2.22,0,81100,Day
+EMP038,Chicago RDC,Warehouse Associate,Active,N/A,2024-08-17,1.95,0,38700,Night
+EMP039,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2026-02-03,0.31,1,89500,Weekend
+EMP040,Dallas Hub,Warehouse Associate,Terminated,Voluntary,2025-12-06,0.55,4,38700,Night
+EMP041,Chicago RDC,Maintenance Tech,Active,N/A,2020-09-12,5.88,0,55900,Night
+EMP042,Chicago RDC,Maintenance Tech,Active,N/A,2020-11-24,5.68,0,69100,Weekend
+EMP043,Dallas Hub,Warehouse Associate,Terminated,Voluntary,2025-09-26,0.76,0,35500,Weekend
+EMP044,Atlanta Depot,Warehouse Associate,Terminated,Voluntary,2025-02-11,1.22,1,38200,Weekend
+EMP045,Chicago RDC,Warehouse Associate,Terminated,Voluntary,2022-12-22,3.23,0,46500,Day
+EMP046,Atlanta Depot,Warehouse Associate,Active,N/A,2025-02-01,1.49,1,36400,Weekend
+EMP047,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-07-20,4.03,0,64800,Night
+EMP048,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-08-29,3.92,0,65600,Night
+EMP049,Atlanta Depot,Logistics Coordinator,Active,N/A,2020-10-18,5.78,0,52100,Day
+EMP050,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2025-09-26,0.55,0,82900,Day
+EMP051,Atlanta Depot,CDL Class-A Driver,Active,N/A,2022-05-26,4.18,1,78100,Weekend
+EMP052,Dallas Hub,Warehouse Associate,Active,N/A,2022-10-08,3.81,1,40600,Night
+EMP053,Dallas Hub,CDL Class-A Driver,Active,N/A,2024-06-27,2.09,0,92000,Weekend
+EMP054,Dallas Hub,Logistics Coordinator,Active,N/A,2022-06-13,4.13,1,52300,Weekend
+EMP055,Chicago RDC,Logistics Coordinator,Terminated,Involuntary,2022-07-17,3.16,5,59900,Night
+EMP056,Dallas Hub,Logistics Coordinator,Active,N/A,2021-10-11,4.8,0,58000,Night
+EMP057,Dallas Hub,Warehouse Associate,Active,N/A,2024-06-09,2.14,0,36100,Weekend
+EMP058,Chicago RDC,Logistics Coordinator,Terminated,Involuntary,2023-12-21,2.48,5,64500,Day
+EMP059,Atlanta Depot,Maintenance Tech,Active,N/A,2024-01-22,2.52,0,66500,Weekend
+EMP060,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2025-04-13,1.1,0,88400,Day
+EMP061,Atlanta Depot,Warehouse Associate,Active,N/A,2020-11-13,5.71,0,43700,Night
+EMP062,Atlanta Depot,Maintenance Tech,Active,N/A,2023-10-08,2.81,1,63900,Weekend
+EMP063,Chicago RDC,Logistics Coordinator,Active,N/A,2022-03-28,4.34,0,58700,Weekend
+EMP064,Chicago RDC,Logistics Coordinator,Active,N/A,2025-01-14,1.54,0,55800,Night
+EMP065,Dallas Hub,Warehouse Associate,Active,N/A,2023-09-05,2.9,0,37800,Weekend
+EMP066,Chicago RDC,Warehouse Associate,Active,N/A,2026-04-08,0.31,1,40100,Night
+EMP067,Dallas Hub,Maintenance Tech,Active,N/A,2021-06-05,5.15,1,55100,Night
+EMP068,Atlanta Depot,Warehouse Associate,Active,N/A,2024-06-05,2.15,0,37900,Night
+EMP069,Dallas Hub,Maintenance Tech,Active,N/A,2022-10-08,3.81,0,58300,Weekend
+EMP070,Chicago RDC,Maintenance Tech,Terminated,Involuntary,2024-02-14,1.9,0,66300,Weekend
+EMP071,Atlanta Depot,Warehouse Associate,Active,N/A,2022-01-07,4.56,0,39200,Night
+EMP072,Atlanta Depot,Logistics Coordinator,Active,N/A,2020-11-09,5.72,0,58500,Day
+EMP073,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2025-05-11,0.53,2,66200,Weekend
+EMP074,Dallas Hub,CDL Class-A Driver,Active,N/A,2024-03-28,2.34,0,93400,Weekend
+EMP075,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2024-04-18,1.73,4,93900,Day
+EMP076,Atlanta Depot,Warehouse Associate,Active,N/A,2022-05-04,4.24,0,42700,Day
+EMP077,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2025-04-02,0.71,0,88500,Weekend
+EMP078,Atlanta Depot,CDL Class-A Driver,Active,N/A,2022-04-12,4.3,1,93800,Night
+EMP079,Atlanta Depot,Warehouse Associate,Active,N/A,2021-01-18,5.53,0,41800,Weekend
+EMP080,Atlanta Depot,Maintenance Tech,Active,N/A,2024-12-16,1.62,0,71500,Night
+EMP081,Chicago RDC,Logistics Coordinator,Active,N/A,2024-03-06,2.4,0,54400,Night
+EMP082,Chicago RDC,Maintenance Tech,Active,N/A,2024-05-29,2.17,1,58600,Night
+EMP083,Dallas Hub,Logistics Coordinator,Active,N/A,2022-03-14,4.38,0,50200,Weekend
+EMP084,Atlanta Depot,Warehouse Associate,Active,N/A,2026-04-12,0.3,0,41200,Weekend
+EMP085,Atlanta Depot,Warehouse Associate,Terminated,Voluntary,2024-11-29,0.87,0,44000,Night
+EMP086,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-03-14,4.38,0,58200,Weekend
+EMP087,Atlanta Depot,CDL Class-A Driver,Active,N/A,2025-02-12,1.46,0,81100,Weekend
+EMP088,Atlanta Depot,Logistics Coordinator,Active,N/A,2020-09-08,5.89,0,60600,Weekend
+EMP089,Chicago RDC,Logistics Coordinator,Active,N/A,2025-08-25,0.93,0,56500,Day
+EMP090,Chicago RDC,CDL Class-A Driver,Active,N/A,2022-01-03,4.57,0,73800,Weekend
+EMP091,Chicago RDC,CDL Class-A Driver,Active,N/A,2020-10-11,5.8,0,73500,Weekend
+EMP092,Atlanta Depot,Maintenance Tech,Active,N/A,2022-09-23,3.85,0,71400,Day
+EMP093,Chicago RDC,Warehouse Associate,Active,N/A,2024-12-08,1.64,0,45500,Day
+EMP094,Dallas Hub,Maintenance Tech,Active,N/A,2024-03-02,2.41,1,66900,Weekend
+EMP095,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-11-02,3.74,0,67800,Weekend
+EMP096,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2026-04-23,0.24,3,83800,Day
+EMP097,Atlanta Depot,Maintenance Tech,Active,N/A,2022-04-12,4.3,0,66900,Weekend
+EMP098,Dallas Hub,Maintenance Tech,Active,N/A,2022-10-01,3.83,1,68700,Day
+EMP099,Dallas Hub,Warehouse Associate,Terminated,Involuntary,2025-12-10,0.38,4,36500,Night
+EMP100,Atlanta Depot,Logistics Coordinator,Active,N/A,2020-11-28,5.67,0,52200,Night
+EMP101,Dallas Hub,Maintenance Tech,Terminated,Involuntary,2024-07-11,1.08,0,56600,Night
+EMP102,Dallas Hub,CDL Class-A Driver,Active,N/A,2025-05-11,1.22,1,89600,Weekend
+EMP103,Dallas Hub,Maintenance Tech,Active,N/A,2023-07-12,3.05,0,58600,Night
+EMP104,Chicago RDC,Maintenance Tech,Active,N/A,2025-06-13,1.13,0,63200,Night
+EMP105,Atlanta Depot,Maintenance Tech,Active,N/A,2026-03-03,0.41,1,68300,Night
+EMP106,Chicago RDC,Logistics Coordinator,Active,N/A,2023-05-26,3.18,0,55800,Night
+EMP107,Chicago RDC,Maintenance Tech,Active,N/A,2023-06-28,3.09,0,56100,Night
+EMP108,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2023-11-07,1.85,5,73000,Day
+EMP109,Chicago RDC,Warehouse Associate,Active,N/A,2020-08-14,5.96,0,42200,Night
+EMP110,Chicago RDC,Maintenance Tech,Active,N/A,2024-09-08,1.89,1,68000,Day
+EMP111,Dallas Hub,Logistics Coordinator,Active,N/A,2023-03-07,3.4,0,65000,Night
+EMP112,Atlanta Depot,Warehouse Associate,Active,N/A,2024-10-11,1.8,1,41600,Weekend
+EMP113,Atlanta Depot,Logistics Coordinator,Terminated,Voluntary,2023-12-26,2.36,1,54800,Weekend
+EMP114,Atlanta Depot,Maintenance Tech,Active,N/A,2020-12-19,5.61,0,61600,Night
+EMP115,Chicago RDC,Warehouse Associate,Active,N/A,2024-07-12,2.05,0,40000,Weekend
+EMP116,Atlanta Depot,Maintenance Tech,Active,N/A,2025-07-01,1.08,0,74800,Night
+EMP117,Chicago RDC,Warehouse Associate,Terminated,Voluntary,2024-10-16,1.74,5,47500,Weekend
+EMP118,Dallas Hub,Warehouse Associate,Active,N/A,2021-11-06,4.73,0,46300,Night
+EMP119,Atlanta Depot,Logistics Coordinator,Active,N/A,2021-06-09,5.14,1,62500,Weekend
+EMP120,Dallas Hub,Maintenance Tech,Active,N/A,2023-03-29,3.34,0,67500,Night
+EMP121,Dallas Hub,CDL Class-A Driver,Active,N/A,2022-01-18,4.53,2,83900,Day
+EMP122,Atlanta Depot,CDL Class-A Driver,Terminated,Involuntary,2026-03-12,0.28,4,86100,Weekend
+EMP123,Atlanta Depot,Logistics Coordinator,Active,N/A,2022-06-06,4.15,0,57800,Night
+EMP124,Chicago RDC,Warehouse Associate,Active,N/A,2024-12-23,1.6,0,36000,Day
+EMP125,Dallas Hub,Warehouse Associate,Terminated,Involuntary,2023-11-17,1.91,2,41000,Day
+EMP126,Chicago RDC,CDL Class-A Driver,Active,N/A,2020-10-18,5.78,0,93400,Night
+EMP127,Dallas Hub,Logistics Coordinator,Active,N/A,2023-07-31,3.0,0,65200,Night
+EMP128,Chicago RDC,Maintenance Tech,Active,N/A,2026-04-01,0.33,0,62200,Weekend
+EMP129,Dallas Hub,Maintenance Tech,Active,N/A,2020-09-23,5.85,1,55200,Night
+EMP130,Dallas Hub,Maintenance Tech,Active,N/A,2025-02-09,1.47,1,70500,Night
+EMP131,Chicago RDC,Logistics Coordinator,Active,N/A,2025-08-03,0.99,0,63600,Weekend
+EMP132,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2025-05-04,0.63,3,88700,Night
+EMP133,Chicago RDC,Warehouse Associate,Active,N/A,2023-06-21,3.11,0,45200,Day
+EMP134,Atlanta Depot,Warehouse Associate,Active,N/A,2024-09-01,1.91,2,46900,Night
+EMP135,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2021-11-07,3.92,1,93900,Night
+EMP136,Atlanta Depot,CDL Class-A Driver,Active,N/A,2022-06-24,4.1,0,65400,Night
+EMP137,Dallas Hub,Logistics Coordinator,Active,N/A,2022-06-20,4.11,0,56900,Weekend
+EMP138,Atlanta Depot,CDL Class-A Driver,Active,N/A,2025-02-05,1.48,1,91500,Weekend
+EMP139,Chicago RDC,Maintenance Tech,Active,N/A,2020-11-20,5.69,0,61000,Weekend
+EMP140,Atlanta Depot,Maintenance Tech,Active,N/A,2023-10-01,2.83,0,56900,Day
+EMP141,Dallas Hub,Maintenance Tech,Active,N/A,2025-10-22,0.77,0,69800,Weekend
+EMP142,Atlanta Depot,Maintenance Tech,Active,N/A,2020-11-13,5.71,0,55700,Night
+EMP143,Atlanta Depot,CDL Class-A Driver,Active,N/A,2026-01-11,0.55,0,76000,Weekend
+EMP144,Atlanta Depot,Warehouse Associate,Active,N/A,2025-02-23,1.43,0,47300,Day
+EMP145,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2024-10-12,1.48,3,88600,Day
+EMP146,Dallas Hub,Warehouse Associate,Terminated,Involuntary,2025-07-16,0.66,0,39300,Day
+EMP147,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2026-01-19,0.13,3,91000,Weekend
+EMP148,Chicago RDC,Warehouse Associate,Terminated,Involuntary,2024-04-19,2.1,5,40500,Weekend
+EMP149,Atlanta Depot,Warehouse Associate,Active,N/A,2023-05-11,3.22,1,35600,Weekend
+EMP150,Atlanta Depot,CDL Class-A Driver,Active,N/A,2025-09-30,0.83,0,95000,Day
+EMP151,Dallas Hub,Maintenance Tech,Active,N/A,2025-08-25,0.93,0,73000,Day
+EMP152,Dallas Hub,Logistics Coordinator,Active,N/A,2022-11-13,3.71,0,67900,Night
+EMP153,Chicago RDC,CDL Class-A Driver,Active,N/A,2025-02-16,1.45,0,84500,Weekend
+EMP154,Atlanta Depot,Warehouse Associate,Active,N/A,2025-10-30,0.75,0,39400,Night
+EMP155,Atlanta Depot,Logistics Coordinator,Active,N/A,2023-08-18,2.95,0,54600,Weekend
+EMP156,Chicago RDC,CDL Class-A Driver,Active,N/A,2025-08-18,0.95,0,78000,Day
+EMP157,Chicago RDC,Logistics Coordinator,Active,N/A,2022-01-11,4.55,0,52200,Weekend
+EMP158,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2025-11-25,0.5,0,83000,Night
+EMP159,Atlanta Depot,Logistics Coordinator,Active,N/A,2021-06-24,5.1,1,63700,Day
+EMP160,Dallas Hub,CDL Class-A Driver,Active,N/A,2025-04-30,1.25,0,92900,Weekend
+EMP161,Dallas Hub,Logistics Coordinator,Active,N/A,2022-07-27,4.01,0,56300,Night
+EMP162,Chicago RDC,Warehouse Associate,Terminated,Voluntary,2025-04-28,0.71,0,43200,Weekend
+EMP163,Atlanta Depot,Logistics Coordinator,Active,N/A,2021-12-31,4.58,0,60700,Weekend
+EMP164,Chicago RDC,CDL Class-A Driver,Active,N/A,2023-12-24,2.6,0,78300,Night
+EMP165,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2025-10-26,0.18,0,77900,Night
+EMP166,Dallas Hub,CDL Class-A Driver,Active,N/A,2021-12-12,4.63,1,71100,Day
+EMP167,Atlanta Depot,Logistics Coordinator,Active,N/A,2024-03-02,2.41,0,50100,Day
+EMP168,Dallas Hub,Warehouse Associate,Active,N/A,2024-01-29,2.5,0,42300,Weekend
+EMP169,Dallas Hub,CDL Class-A Driver,Active,N/A,2023-01-15,3.54,1,65600,Night
+EMP170,Dallas Hub,Maintenance Tech,Active,N/A,2020-10-11,5.8,0,67800,Weekend
+EMP171,Chicago RDC,Maintenance Tech,Terminated,Voluntary,2023-08-07,2.4,0,73400,Weekend
+EMP172,Atlanta Depot,Logistics Coordinator,Active,N/A,2025-09-19,0.86,0,56000,Day
+EMP173,Dallas Hub,Warehouse Associate,Active,N/A,2025-07-08,1.06,0,39600,Night
+EMP174,Chicago RDC,Warehouse Associate,Active,N/A,2022-07-30,4.0,1,37600,Night
+EMP175,Chicago RDC,Maintenance Tech,Active,N/A,2021-01-07,5.56,0,70100,Night
+EMP176,Dallas Hub,Logistics Coordinator,Active,N/A,2022-09-20,3.86,0,55700,Weekend
+EMP177,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2026-01-09,0.4,0,80200,Night
+EMP178,Dallas Hub,Maintenance Tech,Active,N/A,2026-02-20,0.44,0,66600,Night
+EMP179,Dallas Hub,Warehouse Associate,Active,N/A,2023-10-08,2.81,2,42900,Night
+EMP180,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2024-11-03,1.2,2,84400,Weekend
+EMP181,Atlanta Depot,Logistics Coordinator,Active,N/A,2021-10-19,4.78,0,57400,Night
+EMP182,Dallas Hub,Logistics Coordinator,Active,N/A,2024-12-01,1.66,0,55900,Day
+EMP183,Dallas Hub,Warehouse Associate,Active,N/A,2024-07-30,2.0,1,36100,Night
+EMP184,Dallas Hub,Maintenance Tech,Active,N/A,2024-03-13,2.38,0,66900,Day
+EMP185,Atlanta Depot,Warehouse Associate,Active,N/A,2021-02-01,5.49,2,44100,Weekend
+EMP186,Chicago RDC,Maintenance Tech,Active,N/A,2025-02-20,1.44,0,62200,Weekend
+EMP187,Atlanta Depot,Warehouse Associate,Terminated,Voluntary,2024-09-29,1.07,2,48000,Day
+EMP188,Chicago RDC,Logistics Coordinator,Active,N/A,2021-07-23,5.02,0,52400,Weekend
+EMP189,Dallas Hub,Warehouse Associate,Active,N/A,2024-12-30,1.58,0,40700,Weekend
+EMP190,Atlanta Depot,Logistics Coordinator,Active,N/A,2020-10-11,5.8,0,64100,Weekend
+EMP191,Atlanta Depot,Warehouse Associate,Active,N/A,2021-12-01,4.66,0,43800,Night
+EMP192,Atlanta Depot,Maintenance Tech,Active,N/A,2024-12-05,1.65,0,71300,Day
+EMP193,Dallas Hub,Maintenance Tech,Terminated,Voluntary,2024-12-17,1.21,1,66100,Night
+EMP194,Atlanta Depot,Warehouse Associate,Active,N/A,2021-04-01,5.33,1,36200,Night
+EMP195,Chicago RDC,Maintenance Tech,Active,N/A,2025-11-28,0.67,0,62900,Day
+EMP196,Chicago RDC,CDL Class-A Driver,Active,N/A,2021-10-15,4.79,0,92900,Night
+EMP197,Chicago RDC,CDL Class-A Driver,Active,N/A,2021-12-23,4.6,1,92500,Night
+EMP198,Atlanta Depot,Maintenance Tech,Terminated,Involuntary,2023-06-17,2.24,3,55100,Weekend
+EMP199,Dallas Hub,Maintenance Tech,Active,N/A,2024-12-30,1.58,0,70500,Day
+EMP200,Dallas Hub,Maintenance Tech,Active,N/A,2026-04-12,0.3,0,57200,Day
+EMP201,Dallas Hub,Warehouse Associate,Active,N/A,2024-12-23,1.6,0,36900,Weekend
+EMP202,Atlanta Depot,Warehouse Associate,Active,N/A,2020-11-06,5.73,0,43700,Weekend
+EMP203,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2026-04-30,0.13,4,91200,Night
+EMP204,Atlanta Depot,Warehouse Associate,Terminated,Voluntary,2025-05-07,0.73,1,43500,Weekend
+EMP205,Dallas Hub,Warehouse Associate,Active,N/A,2021-09-01,4.91,0,41000,Weekend
+EMP206,Chicago RDC,Maintenance Tech,Terminated,Voluntary,2024-08-31,1.33,2,60900,Day
+EMP207,Dallas Hub,Maintenance Tech,Active,N/A,2021-05-18,5.2,0,55700,Night
+EMP208,Chicago RDC,Logistics Coordinator,Active,N/A,2022-01-25,4.51,1,52200,Night
+EMP209,Atlanta Depot,Logistics Coordinator,Active,N/A,2023-05-15,3.21,1,58900,Day
+EMP210,Chicago RDC,Maintenance Tech,Active,N/A,2024-09-05,1.9,0,63600,Day
+EMP211,Chicago RDC,CDL Class-A Driver,Terminated,Voluntary,2025-10-06,0.73,0,84800,Night
+EMP212,Dallas Hub,Logistics Coordinator,Active,N/A,2020-11-17,5.7,2,68000,Weekend
+EMP213,Chicago RDC,Maintenance Tech,Active,N/A,2026-03-14,0.38,0,65300,Night
+EMP214,Dallas Hub,Maintenance Tech,Active,N/A,2024-04-11,2.3,0,57500,Day
+EMP215,Dallas Hub,CDL Class-A Driver,Active,N/A,2023-10-23,2.77,0,69600,Weekend
+EMP216,Chicago RDC,Warehouse Associate,Terminated,Voluntary,2025-05-24,0.43,2,39800,Weekend
+EMP217,Atlanta Depot,CDL Class-A Driver,Active,N/A,2022-10-30,3.75,0,88200,Night
+EMP218,Dallas Hub,Maintenance Tech,Active,N/A,2021-03-02,5.41,0,57500,Day
+EMP219,Atlanta Depot,CDL Class-A Driver,Active,N/A,2022-04-05,4.32,0,94000,Weekend
+EMP220,Dallas Hub,Logistics Coordinator,Active,N/A,2022-09-05,3.9,1,65300,Night
+EMP221,Atlanta Depot,Warehouse Associate,Active,N/A,2023-07-05,3.07,0,47800,Day
+EMP222,Atlanta Depot,Logistics Coordinator,Active,N/A,2025-11-17,0.7,0,64500,Night
+EMP223,Atlanta Depot,Maintenance Tech,Active,N/A,2021-08-07,4.98,1,69400,Weekend
+EMP224,Chicago RDC,Warehouse Associate,Active,N/A,2024-05-18,2.2,0,43400,Night
+EMP225,Dallas Hub,Warehouse Associate,Active,N/A,2025-08-28,0.92,0,40600,Day
+EMP226,Chicago RDC,Logistics Coordinator,Active,N/A,2020-11-17,5.7,0,52900,Day
+EMP227,Dallas Hub,Logistics Coordinator,Active,N/A,2025-08-25,0.93,0,54500,Day
+EMP228,Atlanta Depot,CDL Class-A Driver,Active,N/A,2025-05-22,1.19,0,84200,Weekend
+EMP229,Dallas Hub,Logistics Coordinator,Active,N/A,2020-11-17,5.7,0,50700,Weekend
+EMP230,Dallas Hub,Logistics Coordinator,Active,N/A,2026-03-14,0.38,0,53800,Weekend
+EMP231,Dallas Hub,Logistics Coordinator,Active,N/A,2022-05-29,4.17,1,67200,Weekend
+EMP232,Atlanta Depot,Maintenance Tech,Active,N/A,2023-09-09,2.89,0,68800,Day
+EMP233,Atlanta Depot,Warehouse Associate,Terminated,Voluntary,2024-05-12,1.47,0,46200,Night
+EMP234,Dallas Hub,CDL Class-A Driver,Terminated,Voluntary,2023-11-21,1.8,0,72300,Night
+EMP235,Atlanta Depot,Warehouse Associate,Active,N/A,2025-04-12,1.3,0,45600,Day
+EMP236,Chicago RDC,Maintenance Tech,Active,N/A,2025-11-10,0.72,0,64300,Weekend
+EMP237,Atlanta Depot,Maintenance Tech,Active,N/A,2023-07-05,3.07,0,59300,Day
+EMP238,Dallas Hub,Maintenance Tech,Active,N/A,2021-04-04,5.32,0,65700,Night
+EMP239,Dallas Hub,Logistics Coordinator,Active,N/A,2025-04-01,1.33,0,56600,Night
+EMP240,Dallas Hub,Logistics Coordinator,Active,N/A,2021-08-03,4.99,0,57000,Day
+EMP241,Dallas Hub,CDL Class-A Driver,Active,N/A,2024-05-29,2.17,1,94300,Day
+EMP242,Atlanta Depot,Warehouse Associate,Active,N/A,2026-02-23,0.43,0,42800,Day
+EMP243,Dallas Hub,Logistics Coordinator,Terminated,Voluntary,2022-04-09,3.73,0,59300,Night
+EMP244,Dallas Hub,Logistics Coordinator,Active,N/A,2022-04-08,4.31,0,56100,Weekend
+EMP245,Atlanta Depot,Maintenance Tech,Active,N/A,2022-12-27,3.59,2,62400,Day
+EMP246,Dallas Hub,CDL Class-A Driver,Active,N/A,2021-11-17,4.7,1,79200,Weekend
+EMP247,Dallas Hub,Warehouse Associate,Active,N/A,2022-03-14,4.38,0,35700,Weekend
+EMP248,Atlanta Depot,Warehouse Associate,Active,N/A,2025-04-08,1.31,0,38100,Weekend
+EMP249,Atlanta Depot,Logistics Coordinator,Active,N/A,2021-11-20,4.69,0,52700,Night
+EMP250,Atlanta Depot,CDL Class-A Driver,Terminated,Voluntary,2025-08-25,0.66,5,69100,Weekend
