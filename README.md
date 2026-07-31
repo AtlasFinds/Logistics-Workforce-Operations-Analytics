@@ -45,7 +45,7 @@ The workspace contains the following deliverables:
 In a highly competitive supply chain market, our enterprise experienced elevated front-line turnover, specifically among CDL Class-A Drivers and Warehouse Associates. Executive leadership lacked an integrated tool to track regional headcount distribution, analyze the root causes of early-stage turnover, correlate safety violations with employee churn, and quantify the total financial impact of recruitment and replacement costs.
 
 ### **Task**
-To creating a robust analytics package and dashboard mockup to identify early turnover indicators, isolate high-risk cohorts, analyze safety compliance correlations, and present findings in an interactive, executive-ready dashboard to drive operational policy changes.
+To create a robust analytics package and dashboard mockup to identify early turnover indicators, isolate high-risk cohorts, analyze safety compliance correlations, and present findings in an interactive, executive-ready dashboard to drive operational policy changes.
 
 ### **Action**
 * **Data Engineering:** Developed a synthetic HR database containing 250 records with key variables such as hire date, tenure, job classification, safety violations, and salaries.
